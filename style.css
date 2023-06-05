@@ -79,6 +79,9 @@ form{
     padding: 10px;
     text-transform: capitalize;
 }
+a:hover{
+    color: purple;
+}
 #show-more-button{
     background-color: #008cba;
     font-size: 18px;
